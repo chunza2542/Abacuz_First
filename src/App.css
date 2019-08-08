@@ -2,7 +2,12 @@
 
 }
 
-
+.abacuz {
+  font-size: 6rem;
+  font-weight: 300;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 100px;
+}
 
 .Body {
   background-position: center;

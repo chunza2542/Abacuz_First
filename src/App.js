@@ -7,17 +7,17 @@ function App() {
       <div className="Body">
 
       <div className="abacuz">
-        ABACUZ
+        Abacuz <b>Computer</b> Club
       </div>
       <div className="box">
           <div className="sub-text">
-          what we do?
+              WHAT WE DO?
           </div>
             <div className="qoute">
-            We grow
+            We Grow
           </div>
           <div className="qoute" style={ {color: '#F61067' }}>
-            great developer
+            Great Developer
           </div>
       </div>
       </div>
